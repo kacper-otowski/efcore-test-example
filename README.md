@@ -10,7 +10,7 @@ Kolokwium powinno zostać zrealizowane na bazie lokalnej lub uczelnianej przy po
 
 Należy zadbać o dodanie przykładowych danych do odpowiednich tabel.
 
-![alt text](./przykladoweKolokwium2Diagram_1.png "Title")
+![alt text](./Data/przykladoweKolokwium2Diagram_1.png "Title")
 
 ## Końcówki
 
